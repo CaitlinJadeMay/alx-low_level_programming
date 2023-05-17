@@ -18,7 +18,7 @@ char *_strcpy(char *dest, char *src)
 	{
 		h++;
 	}
-	for ( ; ca < h ; ca +)
+	for ( ; ca < h ; ca++ )
 	{
 		dest[ca] = src[ca];
 	}
