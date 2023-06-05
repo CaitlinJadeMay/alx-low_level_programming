@@ -2,7 +2,7 @@
 
 /**
 * listint_len - Write a function that returns the
-number of elements in a linked listint_t list
+* number of elements in a linked listint_t list
 * @h: linked list of type listint_t to traverse
 *
 * Return: total nodes cay
